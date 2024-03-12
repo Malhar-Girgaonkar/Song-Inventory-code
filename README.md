@@ -27,7 +27,7 @@ This project is my personal hobby and it solves my own personal niche needs.This
 Following are application images:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Malhar-Girgaonkar/Song-Inventory-code/blob/main/Demo/Mainpage.png" alt="Mainpage" width="400" height="300"/>
+  <img src="./main/Demo/Mainpage.png" alt="Mainpage" width="400" height="300"/>
   <img src="https://github.com/Malhar-Girgaonkar/Song-Inventory-code/blob/main/Demo/Database.png" alt="Database" width="400" height="300"/>
 </div>
 
