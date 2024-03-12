@@ -28,7 +28,7 @@ Following are application images:
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Malhar-Girgaonkar/Song-Inventory-code/blob/9e2e8f005b98a1b7241cbf1d7a37f0973551f29d/Demo/Database.png" alt="Mainpage" width="400" height="300"/>
-  <img src="https://github.com/Malhar-Girgaonkar/Song-Inventory-code/blob/main/Demo/Database.png" alt="Database" width="400" height="300"/>
+  <img src="https://github.com/Malhar-Girgaonkar/Song-Inventory-code/blob/691bcda09db020c920456319266457b9e314b597/Demo/Mainpage.png" alt="Database" width="400" height="300"/>
 </div>
 
 ## License
